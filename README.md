@@ -57,13 +57,14 @@ Tile System
 
 The world is made up of tiles:
 
-ID	Tile	Description              	Collision
-0	  Grass	Default ground	          ❌
-1	  Wall	a wall                  	✅
-2	  Water	Lake or river	            ✅
-3	  Earth	Path or road	            ❌
-4	  Tree	Forest area	              ✅
-5	  Sand	Beach or shore	          ❌
+| ID | Tile  | Description     | Collision |
+|----|--------|-----------------|------------|
+| 0  | Grass  | Default ground  | ❌ |
+| 1  | Wall   | A wall          | ✅ |
+| 2  | Water  | Lake or river   | ✅ |
+| 3  | Earth  | Path or road    | ❌ |
+| 4  | Tree   | Forest area     | ✅ |
+| 5  | Sand   | Beach or shore  | ❌ |
 
 ## Executing the Program
 
